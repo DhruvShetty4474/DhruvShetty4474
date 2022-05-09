@@ -1,6 +1,6 @@
 - 👋 Hi, I’m DhruvShetty
-- 👀 I’m interested in software, game and Web development.
-- 🌱 I’m currently learning Python, C++ and web development
+- 👀 I’m interested in software development, game development, front-end and back-end development, Web development.
+- 🌱 I’m currently learning Python, C++, C and web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me in instagram _kazu221_ and through email:- 1dhruvshetty4@gmail.com.
 
